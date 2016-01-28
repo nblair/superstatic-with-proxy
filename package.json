@@ -1,5 +1,5 @@
 {
-  "name": "superstatic",
+  "name": "superstatic-with-proxy",
   "version": "4.0.1",
   "description": "A static file server for fancy apps",
   "main": "./lib",
@@ -16,7 +16,7 @@
   "author": "Firebase (https://www.firebase.com/)",
   "license": "MIT",
   "bin": {
-    "superstatic": "bin/server"
+    "superstaticp": "bin/server"
   },
   "repository": {
     "type": "git",
@@ -67,6 +67,7 @@
     "router": "^1.0.0",
     "rsvp": "^3.1.0",
     "string-length": "^1.0.0",
+    "superstatic-proxy": "^2.1.0",
     "try-require": "^1.0.0",
     "update-notifier": "0.3.2"
   },
