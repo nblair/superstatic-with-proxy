@@ -1,0 +1,6 @@
+examples
+test
+.travis.yml
+.eslint*
+.gitignore
+CONTRIBUTING.md

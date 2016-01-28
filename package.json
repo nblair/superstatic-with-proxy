@@ -1,6 +1,6 @@
 {
   "name": "superstatic-with-proxy",
-  "version": "4.0.1",
+  "version": "4.0.1-beta.0",
   "description": "A static file server for fancy apps",
   "main": "./lib",
   "scripts": {
@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/superstatic.git"
+    "url": "https://github.com/colinbate/superstatic-with-proxy"
   },
   "bugs": {
-    "url": "https://github.com/firebase/superstatic/issues"
+    "url": "https://github.com/colinbate/superstatic-with-proxy/issues"
   },
   "keywords": [
     "static",
@@ -36,7 +36,8 @@
     "file",
     "directory",
     "hash",
-    "hashbang"
+    "hashbang",
+    "proxy"
   ],
   "dependencies": {
     "as-array": "^1.0.0",
