@@ -6,6 +6,7 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.iml
 
 pids
 logs
@@ -14,6 +15,7 @@ results
 coverage
 npm-debug.log
 node_modules
+.idea
 .tmp
 .tmp_root
 
